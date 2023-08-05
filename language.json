@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@gmail.com",
+    "photo": "https://i.ibb.co/vQnQzDV/ins4.jpg",
+    "designation": "Instructor"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@gmail.com",
+    "photo": "https://i.ibb.co/ZXLW8Ys/ins6.jpg",
+    "designation": "Instructor"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice@gmail.com",
+    "photo": "https://i.ibb.co/RvKhFmP/ins5.jpg",
+    "designation": "Instructor"
+  },
+  {
+    "name": "Nancy Williams",
+    "email": "nancy@gmail.com",
+    "photo": "https://i.ibb.co/mSthCMQ/ins3.webp",
+    "designation": "Instructor"
+  },
+  {
+    "name": "Eve Davis",
+    "email": "eve@gmail.com",
+    "photo": "https://i.ibb.co/ZXK8byn/ins1.webp",
+    "designation": "Instructor"
+  },
+  {
+    "name": "Laura",
+    "email": "laura@gmail.com",
+    "photo": "https://i.ibb.co/gMHHp30/ins2.jpg",
+    "designation": "Instructor"
+  }
+]

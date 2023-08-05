@@ -1,0 +1,30 @@
+{
+  "name": "assignment12-server",
+  "version": "1.0.0",
+  "description": "\"# b7a12-summer-camp-server_side-tapfer-abdullah\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.1.1",
+    "@stripe/stripe-js": "^1.54.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.7.0",
+    "stripe": "^12.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapfer-abdullah/Language-master-server-side.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tapfer-abdullah/Language-master-server-side/issues"
+  },
+  "homepage": "https://github.com/tapfer-abdullah/Language-master-server-side#readme"
+}
